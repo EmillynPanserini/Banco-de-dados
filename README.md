@@ -1,1 +1,1 @@
-Repositório sobre a disciplina Banco de dados 2
+Repositório sobre a disciplina Banco de dados 1
